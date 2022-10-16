@@ -1,0 +1,10 @@
+Create a main script with the following requirements:
+ - recursively get a list of files which names are longer than specified length
+ - sort that list of files according to the full name (beginning with the /)
+ - report that list of files to the output on the screen and at the same time to some file
+Input parameters:
+ - directory name which has to be recursively search for files
+ - natural number - minimum length for file name
+
+
+Create preparation script which will create a random amount of directories(diffrent depth) and empty files with random names. Every directory should have different amount of files.
