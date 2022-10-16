@@ -1,0 +1,4 @@
+Create a script with the following requirements:
+ - replace existing extension of the file on the provided extension
+ - initial name of the file and the new extension are the input parameters of the script
+ - it is necessary to have a solution if the initial name of the file doesn't have an extension
